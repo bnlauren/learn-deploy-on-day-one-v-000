@@ -1,0 +1,88 @@
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, intial-scale=1"/>
+    <title>Learn Verified Student Roster</title>
+    <link rel="stylesheet" href="../css/normalize.css"/>
+    <link rel="stylesheet" href="../css/fonts.css"/>
+    <link rel="stylesheet" href="../css/styles.css"/>
+  </head>
+  <body>
+    <div class="main-wrapper profile">
+      <header class="header">
+        <a href="../">
+          <img class="learn-logo" src="https://s3.amazonaws.com/learn-verified/logo.png"/>
+        </a>
+      </header>
+      <div class="profile-banner" id="bianca-laurendine-cover"></div>
+      <div class="vitals-container">
+        <div class="profile-photo" id="bianca-laurendine-card"></div>
+        <div class="social-icon-container">
+          <a href="https://twitter.com/bnlaurendine"><img class="social-icon" src="https://s3.amazonaws.com/learn-verified/twitter-icon.png"/></a>
+          <a href="https://www.linkedin.com/in/biancalaurendine"><img class="social-icon" src="https://s3.amazonaws.com/learn-verified/linkedin-icon.png"/></a>
+          <a href="https://github.com/bnlauren"><img class="social-icon" src="https://s3.amazonaws.com/learn-verified/github-icon.png"/></a>
+          <a href="http://www.biancalaurendine.com"><img class="social-icon" src="https://s3.amazonaws.com/learn-verified/rss-icon.png"/></a>
+        </div>
+        <div class="vitals-text-container">
+          <h1 class="profile-name">Bianca Laurendine</h1>
+          <h2 class="profile-location">Westminster, CO</h2>
+          <div class="profile-quote">We are what we repeatedly do. Excellence, then, is not an act, but a habit.</div>
+        </div>
+      </div>
+      <div class="details-container">
+        <div class="bio-block details-block">
+          <div class="bio-content content-holder">
+            <div class="title-holder">
+              <h3>Biography</h3>
+            </div>
+            <div class="description-holder">
+              <p>
+                I grew up in New Orleans and my hobbies include read, singing, hanging with friends, and anime.
+                I began coding in high school and upon entering college I became the assistant webmaster or the
+                College of Engineering and Science. When my boss retired I managed the site on my own until
+                the university found a replacement whom I helped train. Prior to graduating I built a site fork
+                a health clinic and helped manage it. In my last 2 position I also helped build and manage
+                Sharepoint sites as well as worked with Wordpress for a bit. My ultimate goal is to obtain a position
+                that where I can eventually become a senior developer while my friend and I work on our blog which will
+                serve as a guide to people on how to be financially savvy and live life to the fullest!
+                </p>
+            </div>
+          </div>
+        </div>
+        <div class="education-block details-block">
+          <div class="education-content content-holder">
+            <div class="title-holder">
+              <h3>Education</h3>
+            </div>
+            <div class="description-holder">
+              <h4>Louisiana Tech University</h4>
+              <h5>Mechanical Engnieering</h5>
+            </div>
+          </div>
+        </div>
+        <div class="experience-block details-block">
+          <div class="experience-content content-holder">
+            <div class="title-holder">
+              <h3>Experience</h3>
+            </div>
+            <div class="description-holder">
+              <h4>Ball Corporation</h4>
+              <h5>Specification Specialist</h5>
+            </div>
+            <div class="description-holder">
+              <h4>Georgia-Pacific</h4>
+              <h5>Project Engineer</h5>
+            </div>
+            <div class="description-holder">
+              <h4>Louisiana Tech University - College of Engineering and Science</h4>
+              <h5>Assistant Webmaster</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer class="footer">
+        <img class="made-with-love" src="https://s3.amazonaws.com/learn-verified/made-with-love.png"/>
+      </footer>
+    </div>
+  </body>
+</html>
